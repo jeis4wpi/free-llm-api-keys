@@ -324,362 +324,6 @@ Key 是公开共享的，额度可能已被用完。服务器定时任务每天�
 
 ## 📅 更新日志
 
-### 2026-04-26
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-25
-- 🆕 新增 22 个 Key (claude-opus-4-7, deepseek-chat, gemini-2.5-flash, gemini-2.5-pro, gpt-5.5, kimi-k2.5 +2 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 8 个过期 Key
-- 🆕 新增 28 个 Key (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, gemini-2.5-flash +6 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 15 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 16 个过期 Key
-- 🆕 新增 36 个 Key (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, embed-multilingual-v3.0 +9 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-24
-- 🆕 新增 0 个 Key ()，清理 7 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 15 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 6 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 16 个过期 Key
-- 🆕 新增 36 个 Key (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, embed-multilingual-v3.0 +9 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 9 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 19 个 Key (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-23
-- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
-- 🆕 新增 19 个 Key (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-22
-- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
-- 🆕 新增 19 个 Key (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 10 个 Key (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +4 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-21
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
-- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-20
-- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
-- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
-- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 17 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more)，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-19
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-
-### 2026-04-18
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 6 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
-- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-17
-- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-
-### 2026-04-16
-- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-15
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-14
-- 🆕 新增 0 个 Key ()，清理 11 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 6 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
-- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-13
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-12
-- 🆕 新增 18 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
-- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-11
-- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
-- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
-- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-10
-- 🆕 新增 0 个 Key ()，清理 17 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
-- 🆕 新增 19 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more)，清理 1 个过期 Key
-- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-09
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 26 个过期 Key
-- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-08
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 17 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat +10 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
-- 🆕 新增 18 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-<details>
-<summary><b>展开更新日志历史</b></summary>
-
-### 2026-04-07
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-
-### 2026-04-06
-- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
-- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
-- 🆕 新增 1 个 Key (glm-5)，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
-- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
-- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 21 个过期 Key
-- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 23 个过期 Key
-- 🆕 新增 19 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more)，清理 19 个过期 Key
-- 🆕 新增 19 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more)，清理 19 个过期 Key
-
-### 2026-04-05
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 26 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 26 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 25 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 23 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 30 个过期 Key
-
-### 2026-04-04
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 26 个过期 Key
-- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 22 个过期 Key
-- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 21 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 25 个过期 Key
-- 🆕 新增 18 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more)，清理 19 个过期 Key
-
-### 2026-04-03
-- 🆕 新增 15 个 Key (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-flash +8 more)，清理 15 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 24 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 26 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 29 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 25 个过期 Key
-
-### 2026-04-02
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +17 more)，清理 2 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +17 more)，清理 49 个过期 Key
-- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 23 个过期 Key
-- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 23 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 28 个过期 Key
-
-### 2026-04-01
-- 🆕 新增 18 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more)，清理 19 个过期 Key
-- 🆕 新增 14 个 Key (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-flash +7 more)，清理 15 个过期 Key
-- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 22 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 30 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 27 个过期 Key
-
-### 2026-03-31
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 26 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 28 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 25 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 25 个过期 Key
-- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 25 个过期 Key
-
-### 2026-03-30
-- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 24 个过期 Key
-- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 21 个过期 Key
-- 🆕 新增 15 个 Key (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-pro +8 more)，清理 16 个过期 Key
-- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 18 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 29 个过期 Key
-
-### 2026-03-29
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 27 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 27 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 29 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more)，清理 26 个过期 Key
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more)，清理 26 个过期 Key
-
-### 2026-03-28
-- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more)，清理 26 个过期 Key
-- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 20 个过期 Key
-- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 26 个过期 Key
-- 🆕 新增 17 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat +10 more)，清理 18 个过期 Key
-- 🆕 新增 19 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more)，清理 19 个过期 Key
-
-### 2026-03-27
-- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 18 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 18 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 12 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 20 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 19 个过期 Key
-
-### 2026-03-26
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 21 个过期 Key
-- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 21 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 3 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 6 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 9 个过期 Key
-
-### 2026-03-25
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 19 个过期 Key
-- 🆕 新增 12 个 Key (codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gpt-5.5 +5 more)，清理 1 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-
-### 2026-03-24
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-- 🆕 新增 7 个 Key (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd)，清理 2 个过期 Key
-
-### 2026-03-23
-- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
-- 🆕 新增 6 个 Key (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd)，清理 1 个过期 Key
-- 🆕 发布 19 个 Key，覆盖 8 大模型系列：GPT-5.5、DeepSeek、Mistral、Cohere、DALL-E 3、TTS、Embeddings
-- 📝 项目上线
-</details>
-
----
-
-## 🔗 相关免费资源
-
-如果这个项目帮到你,也许你会喜欢:
-
-- **[free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions)** — 每小时自动刷新的 Clash / sing-box / v2ray 订阅链接,所有节点 TCP 探测并按延迟排序。无需注册,无需安装任何二进制。
-- **[proxykit](https://github.com/Au1rxx/proxykit)** — 代理订阅瑞士军刀。Clash / sing-box / v2ray / Surge 格式互转，TCP+TLS 活性探测，Netflix / Disney+ / ChatGPT 解锁检测。单 Go 二进制，免 Docker。
-
----
-
-### 2026-05-02
-- 🆕 新增 39 个 Key (text-embedding-3-small, kimi-k2.5, smart-chat, deepseek-chat, claude-opus-4-7, gpt-5.5, gemini-2.5-flash)，清理 1 个过期 Key
-- 🆕 新增 33 个 Key (gpt-5.5, claude-opus-4-7, deepseek-chat, smart-chat, kimi-k2.5, text-embedding-3-small, gemini-2.5-flash)，清理 1 个过期 Key
-
-</details>
-
----
-
-## 📅 Changelog
-
 <details>
 <summary><b>显示更新历史</b></summary>
 
@@ -1747,36 +1391,352 @@ Key 是公开共享的，额度可能已被用完。服务器定时任务每天�
 - 🆕 新增 0 个 Key (no new keys)，清理 2 个过期 Key
 - 🆕 新增 39 个 Key (text-embedding-3-small, kimi-k2.5, smart-chat, deepseek-chat, claude-opus-4-7, gpt-5.5, gemini-2.5-flash)，清理 1 个过期 Key
 
+### 2026-04-26
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-25
+- 🆕 新增 22 个 Key (claude-opus-4-7, deepseek-chat, gemini-2.5-flash, gemini-2.5-pro, gpt-5.5, kimi-k2.5 +2 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 8 个过期 Key
+- 🆕 新增 28 个 Key (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, gemini-2.5-flash +6 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 15 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 16 个过期 Key
+- 🆕 新增 36 个 Key (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, embed-multilingual-v3.0 +9 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-24
+- 🆕 新增 0 个 Key ()，清理 7 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 15 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 6 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 16 个过期 Key
+- 🆕 新增 36 个 Key (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, embed-multilingual-v3.0 +9 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 9 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 19 个 Key (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-23
+- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
+- 🆕 新增 19 个 Key (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-22
+- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
+- 🆕 新增 19 个 Key (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 10 个 Key (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +4 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-21
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
+- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-20
+- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
+- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
+- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 17 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more)，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-19
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+
+### 2026-04-18
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 6 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
+- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-17
+- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+
+### 2026-04-16
+- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 5 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-15
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-14
+- 🆕 新增 0 个 Key ()，清理 11 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 6 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
+- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-13
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 23 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-12
+- 🆕 新增 18 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
+- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 20 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-11
+- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
+- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
+- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-10
+- 🆕 新增 0 个 Key ()，清理 17 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
+- 🆕 新增 19 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more)，清理 1 个过期 Key
+- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-09
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 4 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 26 个过期 Key
+- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-08
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 17 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat +10 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 19 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 22 个过期 Key
+- 🆕 新增 18 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 18 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-07
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 24 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+
+### 2026-04-06
+- 🆕 新增 0 个 Key ()，清理 25 个过期 Key
+- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 2 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 21 个过期 Key
+- 🆕 新增 1 个 Key (glm-5)，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 1 个过期 Key
+- 🆕 新增 0 个 Key ()，清理 3 个过期 Key
+- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 21 个过期 Key
+- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 23 个过期 Key
+- 🆕 新增 19 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more)，清理 19 个过期 Key
+- 🆕 新增 19 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more)，清理 19 个过期 Key
+
+### 2026-04-05
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 26 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 26 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 25 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 23 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 30 个过期 Key
+
+### 2026-04-04
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more)，清理 26 个过期 Key
+- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 22 个过期 Key
+- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 21 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more)，清理 25 个过期 Key
+- 🆕 新增 18 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more)，清理 19 个过期 Key
+
+### 2026-04-03
+- 🆕 新增 15 个 Key (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-flash +8 more)，清理 15 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 24 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 26 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 29 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 25 个过期 Key
+
+### 2026-04-02
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +17 more)，清理 2 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +17 more)，清理 49 个过期 Key
+- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 23 个过期 Key
+- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 23 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 28 个过期 Key
+
+### 2026-04-01
+- 🆕 新增 18 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more)，清理 19 个过期 Key
+- 🆕 新增 14 个 Key (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-flash +7 more)，清理 15 个过期 Key
+- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 22 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 30 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 27 个过期 Key
+
+### 2026-03-31
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 26 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 28 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 25 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 25 个过期 Key
+- 🆕 新增 24 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more)，清理 25 个过期 Key
+
+### 2026-03-30
+- 🆕 新增 23 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more)，清理 24 个过期 Key
+- 🆕 新增 20 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more)，清理 21 个过期 Key
+- 🆕 新增 15 个 Key (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-pro +8 more)，清理 16 个过期 Key
+- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 18 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 29 个过期 Key
+
+### 2026-03-29
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 27 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 27 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 29 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more)，清理 26 个过期 Key
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more)，清理 26 个过期 Key
+
+### 2026-03-28
+- 🆕 新增 25 个 Key (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more)，清理 26 个过期 Key
+- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 20 个过期 Key
+- 🆕 新增 22 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more)，清理 26 个过期 Key
+- 🆕 新增 17 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat +10 more)，清理 18 个过期 Key
+- 🆕 新增 19 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more)，清理 19 个过期 Key
+
+### 2026-03-27
+- 🆕 新增 21 个 Key (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more)，清理 18 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 18 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 12 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 20 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 19 个过期 Key
+
+### 2026-03-26
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 21 个过期 Key
+- 🆕 新增 26 个 Key (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more)，清理 21 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 3 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 6 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 9 个过期 Key
+
+### 2026-03-25
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 19 个过期 Key
+- 🆕 新增 12 个 Key (codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gpt-5.5 +5 more)，清理 1 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+
+### 2026-03-24
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+- 🆕 新增 7 个 Key (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd)，清理 2 个过期 Key
+
+### 2026-03-23
+- 🆕 新增 19 个 Key (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more)，清理 1 个过期 Key
+- 🆕 新增 6 个 Key (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd)，清理 1 个过期 Key
+- 🆕 发布 19 个 Key，覆盖 8 大模型系列：GPT-5.5、DeepSeek、Mistral、Cohere、DALL-E 3、TTS、Embeddings
+- 📝 项目上线
+
 </details>
 
 ---
 
-## 📈 Star History
+## 🔗 相关免费资源
 
-[![Star History Chart](https://api.star-history.com/svg?repos=alistaitsacle/free-llm-api-keys&type=Date)](https://star-history.com/#alistaitsacle/free-llm-api-keys&Date)
+如果这个项目帮到你,也许你会喜欢:
 
----
-
-## 🤝 参与贡献
-
-- 💬 [讨论区](../../discussions) — 反馈建议、请求新模型、分享使用案例
-- 🐛 [提交 Issue](../../issues) — 报告失效 Key 或问题
-- 📖 [贡献指南](./CONTRIBUTING.md) — 如何参与
-- ⭐ **Star 本项目** — 让更多人发现免费 AI 资源
+- **[free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions)** — 每小时自动刷新的 Clash / sing-box / v2ray 订阅链接,所有节点 TCP 探测并按延迟排序。无需注册,无需安装任何二进制。
+- **[proxykit](https://github.com/Au1rxx/proxykit)** — 代理订阅瑞士军刀。Clash / sing-box / v2ray / Surge 格式互转，TCP+TLS 活性探测，Netflix / Disney+ / ChatGPT 解锁检测。单 Go 二进制，免 Docker。
 
 ---
-
-## ⚠️ 免责声明
-
-- Key 为平台自有 token，仅供**学习和开发测试**使用
-- 不保证持续可用性和 SLA
-- 请勿用于违法违规或商业生产环境
-- 维护者保留随时调整额度或回收 Key 的权利
 
 ---
 
 ## 📜 License
 
 [MIT License](./LICENSE)
-
-

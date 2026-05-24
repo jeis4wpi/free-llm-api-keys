@@ -323,356 +323,6 @@ Available globally. Direct access from China — no VPN needed.
 
 ---
 
-### 2026-05-02
-- 🆕 Added 39 keys (text-embedding-3-small, kimi-k2.5, smart-chat, deepseek-chat, claude-opus-4-7, gpt-5.5, gemini-2.5-flash), cleaned 1 expired
-- 🆕 Added 33 keys (gpt-5.5, claude-opus-4-7, deepseek-chat, smart-chat, kimi-k2.5, text-embedding-3-small, gemini-2.5-flash), cleaned 1 expired
-
-### 2026-04-26
-- 🆕 Added 0 keys (), cleaned 1 expired
-### 2026-04-29
-- 🆕 Added 3 keys (smart-chat, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
-
-### 2026-04-28
-- 🆕 Added 0 keys (no new keys), cleaned 3 expired
-- 🆕 Added 4 keys (smart-chat, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
-- 🆕 Added 0 keys (no new keys), cleaned 2 expired
-- 🆕 Added 8 keys (deepseek-chat, smart-chat, gemini-2.5-flash, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
-- 🆕 Added 0 keys (no new keys), cleaned 1 expired
-- 🆕 Added 0 keys (no new keys), cleaned 220 expired
-
-### 2026-04-25
-- 🆕 Added 6 keys (gpt-5.5, claude-sonnet-4-6, smart-chat), cleaned 0 expired
-- 🆕 Added 22 keys (claude-opus-4-7, deepseek-chat, gemini-2.5-flash, gemini-2.5-pro, gpt-5.5, kimi-k2.5 +2 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 8 expired
-- 🆕 Added 28 keys (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, gemini-2.5-flash +6 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 15 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 5 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 16 expired
-- 🆕 Added 36 keys (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, embed-multilingual-v3.0 +9 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-24
-- 🆕 Added 0 keys (), cleaned 7 expired
-- 🆕 Added 0 keys (), cleaned 15 expired
-- 🆕 Added 0 keys (), cleaned 6 expired
-- 🆕 Added 0 keys (), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 16 expired
-- 🆕 Added 36 keys (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, embed-multilingual-v3.0 +9 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 5 expired
-- 🆕 Added 0 keys (), cleaned 9 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-23
-- 🆕 Added 0 keys (), cleaned 18 expired
-- 🆕 Added 0 keys (), cleaned 23 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 0 keys (), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-22
-- 🆕 Added 0 keys (), cleaned 5 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 20 expired
-- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 10 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +4 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 22 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-21
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 20 expired
-- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 23 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-20
-- 🆕 Added 0 keys (), cleaned 23 expired
-- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
-- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 17 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 22 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-19
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 20 expired
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-
-### 2026-04-18
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 0 keys (), cleaned 6 expired
-- 🆕 Added 0 keys (), cleaned 22 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 5 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 19 expired
-- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 18 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-17
-- 🆕 Added 0 keys (), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 19 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-
-### 2026-04-16
-- 🆕 Added 0 keys (), cleaned 19 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 5 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 20 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-15
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 18 expired
-- 🆕 Added 0 keys (), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 20 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-14
-- 🆕 Added 0 keys (), cleaned 11 expired
-- 🆕 Added 0 keys (), cleaned 6 expired
-- 🆕 Added 0 keys (), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 18 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 22 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 25 expired
-- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 23 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-13
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 23 expired
-- 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 19 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-12
-- 🆕 Added 18 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 18 expired
-- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 20 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 25 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-11
-- 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 25 expired
-- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 19 expired
-- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-10
-- 🆕 Added 0 keys (), cleaned 17 expired
-- 🆕 Added 0 keys (), cleaned 25 expired
-- 🆕 Added 19 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more), cleaned 1 expired
-- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 18 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-09
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 0 keys (), cleaned 25 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 4 expired
-- 🆕 Added 0 keys (), cleaned 26 expired
-- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-08
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 17 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat +10 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 19 expired
-- 🆕 Added 0 keys (), cleaned 22 expired
-- 🆕 Added 18 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 18 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-
-### 2026-04-07
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 0 keys (), cleaned 25 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-
-### 2026-04-06
-- 🆕 Added 0 keys (), cleaned 25 expired
-- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 1 keys (glm-5), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 1 expired
-- 🆕 Added 0 keys (), cleaned 3 expired
-- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 21 expired
-- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 23 expired
-- 🆕 Added 19 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more), cleaned 19 expired
-- 🆕 Added 19 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more), cleaned 19 expired
-
-### 2026-04-05
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 26 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 26 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 25 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 23 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 30 expired
-
-### 2026-04-04
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 26 expired
-- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 22 expired
-- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 21 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 25 expired
-- 🆕 Added 18 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more), cleaned 19 expired
-
-### 2026-04-03
-- 🆕 Added 15 keys (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-flash +8 more), cleaned 15 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 24 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 26 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 29 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 25 expired
-
-### 2026-04-02
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +17 more), cleaned 2 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +17 more), cleaned 49 expired
-- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 23 expired
-- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 23 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 28 expired
-
-### 2026-04-01
-- 🆕 Added 18 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more), cleaned 19 expired
-- 🆕 Added 14 keys (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-flash +7 more), cleaned 15 expired
-- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 22 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 30 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 27 expired
-
-### 2026-03-31
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 26 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 28 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 25 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 25 expired
-- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 25 expired
-
-### 2026-03-30
-- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 24 expired
-- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 21 expired
-- 🆕 Added 15 keys (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-pro +8 more), cleaned 16 expired
-- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 18 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 29 expired
-
-### 2026-03-29
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 27 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 27 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 29 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more), cleaned 26 expired
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more), cleaned 26 expired
-
-### 2026-03-28
-- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more), cleaned 26 expired
-- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 20 expired
-- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 26 expired
-- 🆕 Added 17 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat +10 more), cleaned 18 expired
-- 🆕 Added 19 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more), cleaned 19 expired
-
-### 2026-03-27
-- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 18 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 18 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 12 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 20 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 19 expired
-
-### 2026-03-26
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 21 expired
-- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 21 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 3 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 6 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 9 expired
-
-### 2026-03-25
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 19 expired
-- 🆕 Added 12 keys (codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gpt-5.5 +5 more), cleaned 1 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-
-### 2026-03-24
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 7 keys (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd), cleaned 2 expired
-
-### 2026-03-23
-- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 6 keys (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd), cleaned 1 expired
-- 🆕 Published 19 keys across 8 model families: GPT-5.5, DeepSeek, Mistral, Cohere, DALL-E 3, TTS, Embeddings
-- 📝 Project launched
-</details>
-
----
-
 ## 🔗 Related Free Resources
 
 If this repo helped you, you may also like:
@@ -1750,6 +1400,350 @@ If this repo helped you, you may also like:
 - 🆕 Added 1 keys (claude-opus-4-7), cleaned 1 expired
 - 🆕 Added 0 keys (no new keys), cleaned 2 expired
 - 🆕 Added 39 keys (text-embedding-3-small, kimi-k2.5, smart-chat, deepseek-chat, claude-opus-4-7, gpt-5.5, gemini-2.5-flash), cleaned 1 expired
+
+
+### 2026-04-26
+- 🆕 Added 0 keys (), cleaned 1 expired
+### 2026-04-29
+- 🆕 Added 3 keys (smart-chat, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
+
+### 2026-04-28
+- 🆕 Added 0 keys (no new keys), cleaned 3 expired
+- 🆕 Added 4 keys (smart-chat, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
+- 🆕 Added 0 keys (no new keys), cleaned 2 expired
+- 🆕 Added 8 keys (deepseek-chat, smart-chat, gemini-2.5-flash, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
+- 🆕 Added 0 keys (no new keys), cleaned 1 expired
+- 🆕 Added 0 keys (no new keys), cleaned 220 expired
+
+### 2026-04-25
+- 🆕 Added 6 keys (gpt-5.5, claude-sonnet-4-6, smart-chat), cleaned 0 expired
+- 🆕 Added 22 keys (claude-opus-4-7, deepseek-chat, gemini-2.5-flash, gemini-2.5-pro, gpt-5.5, kimi-k2.5 +2 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 8 expired
+- 🆕 Added 28 keys (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, gemini-2.5-flash +6 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 15 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 5 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 16 expired
+- 🆕 Added 36 keys (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, embed-multilingual-v3.0 +9 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-24
+- 🆕 Added 0 keys (), cleaned 7 expired
+- 🆕 Added 0 keys (), cleaned 15 expired
+- 🆕 Added 0 keys (), cleaned 6 expired
+- 🆕 Added 0 keys (), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 16 expired
+- 🆕 Added 36 keys (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, embed-multilingual-v3.0 +9 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 5 expired
+- 🆕 Added 0 keys (), cleaned 9 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-23
+- 🆕 Added 0 keys (), cleaned 18 expired
+- 🆕 Added 0 keys (), cleaned 23 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 0 keys (), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 24 expired
+- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-22
+- 🆕 Added 0 keys (), cleaned 5 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 20 expired
+- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 10 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +4 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 22 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-21
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 20 expired
+- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 0 keys (), cleaned 24 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 23 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-20
+- 🆕 Added 0 keys (), cleaned 23 expired
+- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
+- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 17 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 22 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-19
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 20 expired
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+
+### 2026-04-18
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 0 keys (), cleaned 6 expired
+- 🆕 Added 0 keys (), cleaned 22 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 5 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 19 expired
+- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 18 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-17
+- 🆕 Added 0 keys (), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 19 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+
+### 2026-04-16
+- 🆕 Added 0 keys (), cleaned 19 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 5 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 20 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-15
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 18 expired
+- 🆕 Added 0 keys (), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 20 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-14
+- 🆕 Added 0 keys (), cleaned 11 expired
+- 🆕 Added 0 keys (), cleaned 6 expired
+- 🆕 Added 0 keys (), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 18 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 22 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 25 expired
+- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 23 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 24 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-13
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 23 expired
+- 🆕 Added 0 keys (), cleaned 24 expired
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 19 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-12
+- 🆕 Added 18 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 18 expired
+- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 20 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 24 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 25 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-11
+- 🆕 Added 0 keys (), cleaned 24 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 25 expired
+- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 19 expired
+- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-10
+- 🆕 Added 0 keys (), cleaned 17 expired
+- 🆕 Added 0 keys (), cleaned 25 expired
+- 🆕 Added 19 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more), cleaned 1 expired
+- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 18 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 24 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-09
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 0 keys (), cleaned 25 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 4 expired
+- 🆕 Added 0 keys (), cleaned 26 expired
+- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-08
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 17 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat +10 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 19 expired
+- 🆕 Added 0 keys (), cleaned 22 expired
+- 🆕 Added 18 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 18 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+
+### 2026-04-07
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 24 expired
+- 🆕 Added 0 keys (), cleaned 25 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+
+### 2026-04-06
+- 🆕 Added 0 keys (), cleaned 25 expired
+- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 2 expired
+- 🆕 Added 0 keys (), cleaned 21 expired
+- 🆕 Added 1 keys (glm-5), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 1 expired
+- 🆕 Added 0 keys (), cleaned 3 expired
+- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 21 expired
+- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 23 expired
+- 🆕 Added 19 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more), cleaned 19 expired
+- 🆕 Added 19 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more), cleaned 19 expired
+
+### 2026-04-05
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 26 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 26 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 25 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 23 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 30 expired
+
+### 2026-04-04
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +18 more), cleaned 26 expired
+- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 22 expired
+- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 21 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +17 more), cleaned 25 expired
+- 🆕 Added 18 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more), cleaned 19 expired
+
+### 2026-04-03
+- 🆕 Added 15 keys (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-flash +8 more), cleaned 15 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 24 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 26 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 29 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 25 expired
+
+### 2026-04-02
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +17 more), cleaned 2 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +17 more), cleaned 49 expired
+- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 23 expired
+- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 23 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 28 expired
+
+### 2026-04-01
+- 🆕 Added 18 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +11 more), cleaned 19 expired
+- 🆕 Added 14 keys (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-flash +7 more), cleaned 15 expired
+- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 22 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 30 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 27 expired
+
+### 2026-03-31
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 26 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 28 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 25 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 25 expired
+- 🆕 Added 24 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +17 more), cleaned 25 expired
+
+### 2026-03-30
+- 🆕 Added 23 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +16 more), cleaned 24 expired
+- 🆕 Added 20 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +13 more), cleaned 21 expired
+- 🆕 Added 15 keys (GLM-4.7, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gemini-2.5-pro +8 more), cleaned 16 expired
+- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 18 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 29 expired
+
+### 2026-03-29
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 27 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 27 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 29 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more), cleaned 26 expired
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more), cleaned 26 expired
+
+### 2026-03-28
+- 🆕 Added 25 keys (GLM-4.7, codestral-latest, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +18 more), cleaned 26 expired
+- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 20 expired
+- 🆕 Added 22 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +15 more), cleaned 26 expired
+- 🆕 Added 17 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat +10 more), cleaned 18 expired
+- 🆕 Added 19 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +12 more), cleaned 19 expired
+
+### 2026-03-27
+- 🆕 Added 21 keys (GLM-4.7, codestral-latest, dall-e-3, deepseek-chat, deepseek-reasoner, devstral-latest +14 more), cleaned 18 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 18 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 12 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 20 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 19 expired
+
+### 2026-03-26
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 21 expired
+- 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 21 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 3 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 6 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 9 expired
+
+### 2026-03-25
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 19 expired
+- 🆕 Added 12 keys (codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gpt-5.5 +5 more), cleaned 1 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+
+### 2026-03-24
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+- 🆕 Added 7 keys (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd), cleaned 2 expired
+
+### 2026-03-23
+- 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
+- 🆕 Added 6 keys (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd), cleaned 1 expired
+- 🆕 Published 19 keys across 8 model families: GPT-5.5, DeepSeek, Mistral, Cohere, DALL-E 3, TTS, Embeddings
+- 📝 Project launched
 
 </details>
 
