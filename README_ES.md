@@ -17,7 +17,7 @@ Copia una clave de la tabla, pégala en tu app y empieza a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Claves_Disponibles-21-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Claves_Disponibles-15-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 
 **⭐ Star este repo = más claves gratis para todos**
@@ -40,11 +40,11 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 
 ## 📋 Claves Disponibles
 
-> ⏰ Última actualización: 2026-05-29 03:52 (UTC+8)
+> ⏰ Última actualización: 2026-05-29 04:07 (UTC+8)
 
 ### Modelos destacados
 
-### GPT-5.5 `05-29 03:52`
+### GPT-5.5 `05-29 04:07`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -53,7 +53,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-s6wjTkVIdQDQLEKDGtny6VyIE1Qos7LqHS7EpTxYLGzIH6W5` | gpt-5.5 | 🆕 Nueva | $19 | 5 RPM | 2026-05-29 | Premium GPT flagship |
 | `sk-HgBgtmb9dPxFgZyJ5TunM7vbX4z1t8nWJv9Jk7k0g2eik4ZV` | gpt-5.5 | 🆕 Nueva | $19 | 5 RPM | 2026-05-29 | Premium GPT flagship |
 
-### Gemini `05-29 03:52`
+### Gemini `05-29 04:07`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -64,25 +64,14 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-wJXnp9Qe7m9x9AlRb1B9hMJmS08NQpWrxTc1TZmSOcFkDIJX` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-05-29 | Fast Gemini option for long-context general chat |
 | `sk-MNj5JufH4gWXVI4AJeDy6bOPzvSpWz7uat2rCQ6q3tFKQIbN` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-05-29 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `05-29 03:52`
+### DeepSeek `05-29 04:07`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
-| `sk-7GzuiA8qi9ZsKDTudEelCSNgRq2QWeK1OSZLxYAkO2OinVHz` | deepseek-chat | 🆕 Nueva | $19 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
-| `sk-i9ljiRBc0e5NN9exuJJQIl68qSIh9E2DZcDZR2652Usk8j1E` | deepseek-chat | 🆕 Nueva | $19 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
+| `sk-8R2TpN6FMJTEV7cYjeM7Ocp0GBERKLrRjaJxFSCHY8oXYdKG` | deepseek-chat | 🆕 Nueva | $17 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
+| `sk-aiYj52GpB4Gy2RcnWXx5OkQwybV4MGsGemCi5naeOGxDxJnX` | deepseek-chat | 🆕 Nueva | $11 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
 
-### Kimi `05-29 03:52`
-
-| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
-|-----|--------|--------|-------------|------|--------|-------------|
-| `sk-2XtcxOBvQM8rIG2Fb0GPl1B0h9ykx5jqAsW038wh9muYk5m6` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-05-30 | Kimi long-context general model |
-| `sk-djNyjrtZ7rBQ70NYfGgrOdE9m3W19l5W3vj1bTYxx3rwfT05` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-05-30 | Kimi long-context general model |
-| `sk-XAl8KzM1uaFOFJuaFlxSdQEQWpkUcyi0DrkCuYwVDUjmrpi4` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-05-30 | Kimi long-context general model |
-| `sk-ZKwSvjuG4j2z04A5TNUZ57sE2G4i1HLOdtzCoLdg9jqH2VBJ` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-05-30 | Kimi long-context general model |
-| `sk-q9uA4K6IRQHMInmKBSeLEjvxYR2fegBy6nJNTtK8zUUcS6uv` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-05-30 | Kimi long-context general model |
-| `sk-nKsepm3D5J3VHzI5PtUqUx2Shr7L71VZhqrCtBwD3xVR5iVR` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-05-30 | Kimi long-context general model |
-
-### Image / Audio / Embedding `05-29 03:52`
+### Image / Audio / Embedding `05-29 04:07`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
