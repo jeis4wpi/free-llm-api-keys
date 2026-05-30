@@ -17,7 +17,7 @@ Copie uma chave da tabela, cole no seu app e comece a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-23-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-34-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Siga_no_X-novas_chaves-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -43,11 +43,11 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 
 ## 📋 Chaves Disponíveis
 
-> ⏰ Última atualização: 2026-05-31 00:22 (UTC+8)
+> ⏰ Última atualização: 2026-05-31 00:30 (UTC+8)
 
 ### Modelos em destaque
 
-### GPT-5.5 `05-31 00:22`
+### GPT-5.5 `05-31 00:30`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -56,7 +56,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-cRj6IrcKcMw8pFA4TpoIhj51j6laHjbSvX0E2X3FbgMkRkgs` | gemini-2.5-pro | 🆕 Nova | $20 | 5 RPM | 2026-05-31 | KM recommended alternative for Premium GPT flagship |
 | `sk-n7SBYBnP5ASNGIekWRdKBK80vkb8L96UtXuXb7LDBxfMRvE5` | gemini-2.5-pro | 🆕 Nova | $20 | 5 RPM | 2026-05-31 | KM recommended alternative for Premium GPT flagship |
 
-### Claude Opus 4.7 `05-31 00:22`
+### Claude Opus 4.7 `05-31 00:30`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -67,7 +67,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-pSNRhFDVYrhQvrbSO5L9TSZ0nBbI77eK0kEuboftxSEScDVE` | gemini-2.5-pro | 🆕 Nova | $20 | 5 RPM | 2026-06-01 | KM recommended alternative for Claude Opus flagship |
 | `sk-GPw0ScwJUW6QlD9fsAQaF81xmnpMG4W5R7T8eZsGYucBADD0` | gemini-2.5-pro | 🆕 Nova | $20 | 5 RPM | 2026-06-01 | KM recommended alternative for Claude Opus flagship |
 
-### Gemini `05-31 00:22`
+### Gemini `05-31 00:30`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -78,7 +78,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-nTfHxNBXcnyJ9DNQ0TJZedszb1Nc7LlAoLDFCy6TIpjgKM2h` | gemini-2.5-flash | 🆕 Nova | $20 | 20 RPM | 2026-05-31 | Fast Gemini option for long-context general chat |
 | `sk-3krcl824QFdmvZBPMZNsAqomkUN9Q3Xoe4JHu6lr5ih64x9V` | gemini-2.5-flash | 🆕 Nova | $20 | 20 RPM | 2026-05-31 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `05-31 00:22`
+### DeepSeek `05-31 00:30`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -86,13 +86,29 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-bV7866QWmlH0Obqm7LoraEGi0drUfGV3FTNSEC7s6hhk3Arl` | gemini-2.5-pro | 🆕 Nova | $20 | 20 RPM | 2026-05-31 | KM recommended alternative for Everyday chat, coding, translation, writing |
 | `sk-sw5qWnuQDGXV4mnkDOmaUHDIqumQdyHGY7sNeaQlEAOPa2gz` | gemini-2.5-pro | 🆕 Nova | $20 | 20 RPM | 2026-05-31 | KM recommended alternative for Everyday chat, coding, translation, writing |
 
-### Kimi `05-31 00:22`
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `05-31 00:30`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
-| `sk-mh92Ncdg7Y05Zp58xrXPisMp8dMR0ewaHFV9CnZHSwi87po4` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Kimi long-context general model |
+| `sk-iJsWcPDryDcnwaq3I9Ysic09RWySitVX53dCZzMTauN25LlC` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-vCXBmQsiERBGw1TEqeRM38QSQpAsKUG6SqvfPlp3GMhVvzRS` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-I4iYEV7gY2ojPEeoV8aLx3rspPhHUBnbkU4DbT0VzN1kAWYK` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-m0XaVM6P5vey6fgV5pH55tHYndo19OwmY1m0PueY5mwQDW9L` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-bOUtTQCF6HLHR5A20HcU0qHYwYJ6CpN4VxFyzKOjAn4QZ2Sp` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-5nU1mdOSa3WQkkL8F3vv0kGVAWVbudHpcIZZxeynKrVYY0YA` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Auto-routes across currently healthy low-cost chat backends |
 
-### Image / Audio / Embedding `05-31 00:22`
+### Kimi `05-31 00:30`
+
+| Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
+|-----|--------|--------|-----------|------|--------|-------------|
+| `sk-5r5hYnQnU9OtPFpAMo6ij2pUZM65dXa7zV60DoO7Xix0iHK8` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Kimi long-context general model |
+| `sk-moVSf3KzfV6M2Levk9WLdRHzDPqEHy3hmjZRkcwWYjOpsM1K` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Kimi long-context general model |
+| `sk-UT3OOpM57lEZ3cz2FO67AiKGO1q0OCGpo9CD2ceUCKSWNPHB` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Kimi long-context general model |
+| `sk-Hxg8i94cMrqZZBNhr4ccODKNIEW2cAD1yW1ytl2RFvwuGyFP` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Kimi long-context general model |
+| `sk-hF36cSnsfX8PpjXeoM3HZtHDnnNnMgL1XZqJa4wLtCbRfIOm` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Kimi long-context general model |
+| `sk-UNKnLxf4RR8850fjWrGcJvOmfBq18WCn9nR3ix5b3v3ayhNi` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-01 | Kimi long-context general model |
+
+### Image / Audio / Embedding `05-31 00:30`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
