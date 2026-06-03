@@ -57,11 +57,11 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-06-03 08:31 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-06-03 08:37 (UTC+8)
 
 ### 주요 모델
 
-### GPT-5.5 `06-03 08:31`
+### GPT-5.5 `06-03 08:37`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -70,7 +70,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-Fxfm1b7xaWqa48zgCaL7ajNmJGPKvKSDRygbDGeurTMzHmaY` | gemini-2.5-pro | 🆕 신규 | $20 | 5 RPM | 2026-06-05 | KM recommended alternative for Premium GPT flagship |
 | `sk-RNasOfzhZbf0vhW0pKLjQ7BEShgq1CNvIPUPoyv2RNAd1w4W` | gemini-2.5-pro | 🆕 신규 | $20 | 5 RPM | 2026-06-05 | KM recommended alternative for Premium GPT flagship |
 
-### Claude Opus 4.7 `06-03 08:31`
+### Claude Opus 4.7 `06-03 08:37`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -81,7 +81,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-pRmvcRsttaVM4w4LM9ifg7LDv1xRC7hYPDOSvMRe9N1fgBhi` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-04 | Claude Opus flagship |
 | `sk-GiY1IsrIm4k2NHFFtMGBw7hA1aigFakPF6mkagMKAwhDgdfD` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-04 | Claude Opus flagship |
 
-### Gemini `06-03 08:31`
+### Gemini `06-03 08:37`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -92,7 +92,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-UapGlJuQyvDboowuY890a3Qyqd5j5fMrKH2vAgt2v6a9u3Ct` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
 | `sk-ncGnn0fCZ3BEmvow31TctGEhm7GttX7vN0dAksCsb2M1COh3` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `06-03 08:31`
+### DeepSeek `06-03 08:37`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -100,7 +100,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-ADscW2NDvYKkuwHvnsEw6IiDtcq7YzKdcOXmNsGwjmGBFyU2` | gemini-2.5-pro | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | KM recommended alternative for Everyday chat, coding, translation, writing |
 | `sk-ACB81N7ARULaC4fCTsxwM9j8U2IjNLKCdNe7VlRYLCHRTlK9` | gemini-2.5-pro | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | KM recommended alternative for Everyday chat, coding, translation, writing |
 
-### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `06-03 08:31`
+### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `06-03 08:37`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -111,7 +111,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-H0RwT43TAq0yU0qC698kyOzFvQqIvrABuUmtr1mrKR11D5bN` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-05 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-yOsKkVQ7ysyK389FOL0ZeviHghWb4URpUI2B3ZmcWsxvWoUM` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-05 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `06-03 08:31`
+### Kimi `06-03 08:37`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -122,7 +122,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-BtaI8EuMEIfCQ8N1KI4YJl4BAfuFYXWXltfFRRo1NzJvq0i4` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-06-04 | Kimi long-context general model |
 | `sk-irjuhLPRJdHCxF2EjGgVJ2Evg8E6PyR0nFrwR5rxdXdzQ9He` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-06-04 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-03 08:31`
+### Image / Audio / Embedding `06-03 08:37`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
