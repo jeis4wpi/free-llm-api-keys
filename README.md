@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-24-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-23-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -58,7 +58,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-04 11:52 (UTC+8)
+> ⏰ Last updated: 2026-06-04 12:07 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -72,7 +72,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. If a target model has no KM recommendation or quota, it tries a quota-backed KM-recommended model in the same capability; otherwise that shelf stays hidden.
 
-### GPT-5.5 `06-04 11:52`
+### GPT-5.5 `06-04 12:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -81,7 +81,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Claude Opus 4.7 `06-04 11:52`
+### Claude Opus 4.7 `06-04 12:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -93,7 +93,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Gemini `06-04 11:52`
+### Gemini `06-04 12:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -106,7 +106,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### DeepSeek `06-04 11:52`
+### DeepSeek `06-04 12:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -116,19 +116,18 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Kimi `06-04 11:52`
+### Kimi `06-04 12:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-hFgy0D31hcDXujLn0LLZECggamRuSR9ZM5LqOahymavtu5Th` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-06 | Kimi long-context general model |
-| `sk-vAwkIv6aSlZG0ei0TZi9Dbd0DgeGemtO9uXaZK5PwXMeS7vh` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-06 | Kimi long-context general model |
 | `sk-B35sPFWzPbQ6GiAV5iIP6At4KnW5Mf7kxm2HAxfpeI39j4t9` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-06 | Kimi long-context general model |
 | `sk-st0KZGDjpDP4uLK8BQMiz5MbTlA5ABZA2jzGVwPzOiXxKxE4` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-06 | Kimi long-context general model |
 | `sk-wn93Yr4cDooBRl0FpjVFIHvpo52aV4ZVnPfT9dvwSHCI6uUq` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-06 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-04 11:52`
+### Image / Audio / Embedding `06-04 12:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
