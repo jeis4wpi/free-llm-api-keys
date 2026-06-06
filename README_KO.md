@@ -57,45 +57,50 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-06-04 16:07 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-06-06 17:20 (UTC+8)
 
 ### 주요 모델
 
-### Claude Opus 4.7 `06-04 16:07`
+### Gemini `06-06 17:20`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-uMapJwXQ1mjkZJNqx29LYULwDs2PylzTugNwp75xWtB1qR8Z` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-06 | Claude Opus flagship |
-| `sk-xJSOr3BB9atSpBiJgRv4oE1jBnmQPJvWAvkweGCUGllFveXD` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-06 | Claude Opus flagship |
-| `sk-EbKd07KQi7TvrCxEEnGQYwmAHMWCIEbIzMZaVsZtrq9AyZpZ` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-06 | Claude Opus flagship |
-| `sk-4M6FtEykJjTVAsrv0Joam9ApWMpGcqWuWaPl03IYj7GDrf57` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-06 | Claude Opus flagship |
+| `sk-O3kEN936mtOOgGn79NHccA0SaHTaobDU2oyQB0EkDJLX1fNH` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
+| `sk-5qdZN0WFcYioCrH4XoujlE9r0aazG424rVXvtyoOU6gVyLXQ` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
+| `sk-DO9v1g8TbSETRkq7rhY3N2Nb2jGqtYvGJDFcn5iOF1amjiYe` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
+| `sk-rgW72K3SmyDfDKXnPoGZ55BocvoYcS1Eb4jraUHLoFlTu28V` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
+| `sk-ObA5HqmsF1IyPuAZR3lwuynFtuG7wbkloHR45BDUJHkdIbea` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
+| `sk-EYAwA23uy3ODMCcMgOVbKW5MwYtnEDikwVHfq9Uhr4cV65GH` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
 
-### Gemini `06-04 16:07`
-
-| Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
-|-----|------|------|------|------|------|------|
-| `sk-nGxvWsz9RVf62OGbjiptiuCFMlBIbk5wShwErROP8JAS1VY8` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
-| `sk-c7fEj0Pflh2WfuFJq9uUvQU9ETaanb8741CMfgUQkkc5LIaF` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
-| `sk-nsuNAw5kUJ6kY6j0JvZ3BvGkiQBhbDrTjB3A952dU1Udomln` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
-| `sk-UjGmzDTQiuhA1JQhDkeLwlRDuOyIkPxyxaMIoAolUr2pfZij` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
-| `sk-UapGlJuQyvDboowuY890a3Qyqd5j5fMrKH2vAgt2v6a9u3Ct` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
-| `sk-ncGnn0fCZ3BEmvow31TctGEhm7GttX7vN0dAksCsb2M1COh3` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
-
-### Kimi `06-04 16:07`
+### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `06-06 17:20`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-oLpfQHkdgKWFg2pFvXJBsPh6bbpfe7pX3d8qRRe8etQYvorm` | kimi-k2.5 | 🆕 신규 | $17 | 10 RPM | 2026-06-06 | Kimi long-context general model |
-| `sk-YVuumFhMYGlyHUFvsDkog2watGQBwqSRGMDAaHFBrTgqmj8E` | kimi-k2.5 | 🆕 신규 | $17 | 10 RPM | 2026-06-06 | Kimi long-context general model |
-| `sk-WZxogIxa1O2GQIJ5QdLj4yDToZtL1Vr1sKdfUZl7HiRaIbd2` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-06 | Kimi long-context general model |
+| `sk-gtcnwoOyD6yLdoKevUDkZohX8k7MQBHFbGfSrkkYWuPXgMT5` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-TAo0OEonqmz6QPeBzwPJV6H0pofXPTwaGHM0IThdpTsLzNEB` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-6464uTTmueEPWGUL1bf66INGhkoKgQg30aXrtrrp8ycTi82u` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-nMV0yRjyNAQP25TDQqg3PCMujRweYdj1cZ0mF9rw0dViiR0H` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-Y9IO621vz3G6JUhDXRFLCL1391JbbvhzeQnnrb6AM0vOTPad` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-KDCvlZunbMngSLkBm7bX2SecufcPUk599qVGAMHpIUDIVYNl` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Auto-routes across currently healthy low-cost chat backends |
 
-### Image / Audio / Embedding `06-04 16:07`
+### Kimi `06-06 17:20`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-aG0NWMgYbRhXZRnb2YSZTb7oexpyB2FdEDPsRm4lj5SA1WzQ` | text-embedding-3-small | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Text embeddings |
-| `sk-dfGKx3A1kPIMKu8Iyqslosv016IlArEtRoLQdvCh4Na8urMj` | text-embedding-3-small | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Text embeddings |
-| `sk-Hl0QXYFh9wKj2X8sO3DVYkHqjNDA4AR4VsetJHXZHgBGuZUi` | text-embedding-3-small | 🆕 신규 | $20 | 20 RPM | 2026-06-04 | Text embeddings |
+| `sk-jOAtvO9nBrJUw6VzalU7y2PHpXck6P27qFirp6c5kDW9JIjF` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Kimi long-context general model |
+| `sk-OoOyBp58ke6p21CsQLpjId2pH5xVOsdW2pgq4bV1WAYEj5Gu` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Kimi long-context general model |
+| `sk-fzkvdItvftcp8441W7liSYtmsX0Du36vzp0cwzCuHbfUZ5ta` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Kimi long-context general model |
+| `sk-mFCX5PKoKAyBClhdRsAXkM8lN8I0Uy2NCUi3TpTGAqQQsFmu` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Kimi long-context general model |
+| `sk-fGkG6GQY7oNGrhXKm4TX0b7BHBPG02Yja9oTiVX9qTgjg7nl` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Kimi long-context general model |
+| `sk-UvPcufDnYdMzJGH9x3gMAtMcO9JSxGoXV64zj7oKo516vPG4` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-06-08 | Kimi long-context general model |
+
+### Image / Audio / Embedding `06-06 17:20`
+
+| Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
+|-----|------|------|------|------|------|------|
+| `sk-YLhfjC7KUwg147FD1DBODUkODHWXOxU3A1kNaIkNY0H4xll7` | text-embedding-3-small | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Text embeddings |
+| `sk-1BuHOUNN8yaoIavpGG6LuhRA1gu1cWWrBMBe1bJ09o5BIpuN` | text-embedding-3-small | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Text embeddings |
+| `sk-eSiXtzYDNThMQgh9RkWWzwkyNGQCgopV3J9WBSsLviOob0gV` | text-embedding-3-small | 🆕 신규 | $20 | 20 RPM | 2026-06-08 | Text embeddings |
 
 ## 🚀 사용 방법
 
