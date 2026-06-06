@@ -17,7 +17,7 @@ Copia una clave de la tabla, pégala en tu app y empieza a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Claves_Disponibles-27-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Claves_Disponibles-25-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Sigue_en_X-nuevas_claves-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -43,11 +43,11 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 
 ## 📋 Claves Disponibles
 
-> ⏰ Última actualización: 2026-06-06 17:52 (UTC+8)
+> ⏰ Última actualización: 2026-06-06 18:06 (UTC+8)
 
 ### Modelos destacados
 
-### Gemini `06-06 17:52`
+### Gemini `06-06 18:06`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -58,7 +58,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-ObA5HqmsF1IyPuAZR3lwuynFtuG7wbkloHR45BDUJHkdIbea` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
 | `sk-EYAwA23uy3ODMCcMgOVbKW5MwYtnEDikwVHfq9Uhr4cV65GH` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
 
-### Kimi `06-06 17:52`
+### Kimi `06-06 18:06`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -69,30 +69,13 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-fGkG6GQY7oNGrhXKm4TX0b7BHBPG02Yja9oTiVX9qTgjg7nl` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-06-08 | Kimi long-context general model |
 | `sk-UvPcufDnYdMzJGH9x3gMAtMcO9JSxGoXV64zj7oKo516vPG4` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-06-08 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-06 17:52`
+### Image / Audio / Embedding `06-06 18:06`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
 | `sk-YLhfjC7KUwg147FD1DBODUkODHWXOxU3A1kNaIkNY0H4xll7` | text-embedding-3-small | 🆕 Nueva | $20 | 20 RPM | 2026-06-08 | Text embeddings |
 | `sk-1BuHOUNN8yaoIavpGG6LuhRA1gu1cWWrBMBe1bJ09o5BIpuN` | text-embedding-3-small | 🆕 Nueva | $20 | 20 RPM | 2026-06-08 | Text embeddings |
 | `sk-eSiXtzYDNThMQgh9RkWWzwkyNGQCgopV3J9WBSsLviOob0gV` | text-embedding-3-small | 🆕 Nueva | $20 | 20 RPM | 2026-06-08 | Text embeddings |
-
-### More Available Models `06-06 17:52`
-
-| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
-|-----|--------|--------|-------------|------|--------|-------------|
-| `sk-f2xpAdGNzQFLfh0xzDa7XeqnGx8jL9l9RHMTFOo1I3eW45KN` | poolside/laguna-m.1:free | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-TJw5Crr46lRPxF7ojL2mPHOBPjhJnZJ521WDKqBKBhrHbdaN` | perceptron/perceptron-mk1 | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-MMcVqB9FvK4UJrakFSxHcMSkN833vYvQ4r61F4XFnWDrcLiW` | openrouter/owl-alpha | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-G3aMMicaJNw06qc8GNjnrvmpYIdtJOup1a165rd6dTKVHwsX` | openai/gpt-chat-latest | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-nPJFAAjNKrCg7UICNA4rLzILY9m2gKa1YhYrgmaGhV27HAtC` | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-2Eix3RlCtgvKV4w0swAffnTseWxZ1xrYQIoEOLuqgQfLbJ6Z` | mistralai/mistral-medium-3-5 | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-5vm4ATddBdc7MWZTEHfsnStFlEfBMbF2jKWnhoWYkdW9EWgB` | inclusionai/ring-2.6-1t | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-IjhRsDYiIePQrTtbiM0LJLimEepJD7TwXtd62GrVK1pW5naW` | ibm-granite/granite-4.1-8b | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-UYsTxDHjcpDnBbk0K1Aobh0shnGnMBlc0guVng5IQbnvZ8Vb` | google/gemini-3.1-flash-lite | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-pkARKatK3mvwb1XRMQJRW8XakLx9dfz1Lym8rs1NUKqawlJm` | baidu/cobuddy:free | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-ffN0CNagkCjKiIgX3pwuDHvmHNMddEpGbH7cEnKvXTxqNIf3` | deepseek-v4-pro | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
-| `sk-hi5wFTcJnrlpv87ePwqByYVTyx7rYUL760eYtUAOjjTJUpCp` | deepseek-v4-flash | 🆕 Nueva | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 ## 🚀 Cómo Usar
 
