@@ -17,7 +17,7 @@ Copie uma chave da tabela, cole no seu app e comece a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-47-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-46-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Siga_no_X-novas_chaves-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -43,11 +43,11 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 
 ## 📋 Chaves Disponíveis
 
-> ⏰ Última atualização: 2026-06-08 03:22 (UTC+8)
+> ⏰ Última atualização: 2026-06-08 03:37 (UTC+8)
 
 ### Modelos em destaque
 
-### Claude Opus 4.7 `06-08 03:22`
+### Claude Opus 4.7 `06-08 03:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -56,7 +56,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-cyQC3kam69Up3Mrku4JAaotEy9Vbu5vrYHIFY0oirsC458cC` | claude-opus-4-7 | 🆕 Nova | $20 | 5 RPM | 2026-06-08 | Claude Opus flagship |
 | `sk-QbdMSnNtFUuAdfXX91hHYxVdl45ox4yVjf7uyyeArJ4z53IH` | claude-opus-4-7 | 🆕 Nova | $20 | 5 RPM | 2026-06-08 | Claude Opus flagship |
 
-### Gemini `06-08 03:22`
+### Gemini `06-08 03:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -67,16 +67,15 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-ObA5HqmsF1IyPuAZR3lwuynFtuG7wbkloHR45BDUJHkdIbea` | gemini-2.5-flash | 🆕 Nova | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
 | `sk-EYAwA23uy3ODMCcMgOVbKW5MwYtnEDikwVHfq9Uhr4cV65GH` | gemini-2.5-flash | 🆕 Nova | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
 
-### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `06-08 03:22`
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `06-08 03:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
-| `sk-v7zSBGr5kTNwNPQSpp2dbcZgJiEAsX8Mbs8c2bZvGjK1fifp` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-09 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-cbaMfVoYVFDzDKIJ3N5Btk2nDYyWcvIJ6pfmG11wLSdKGeae` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-09 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-j0rl5fmemfjazEc86X7atudAJTqEug7op13b9dY1F03sEf0q` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-09 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-wylyJ4aCmR1uS2PXyu6duUTVtIvt8WatKJxR9lKFPABqrNzz` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-09 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `06-08 03:22`
+### Kimi `06-08 03:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -87,7 +86,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-hpbPlwtmFh2rlYOvmD3jumZ7Qcngjiohrmysc2H63cllvty3` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-09 | Kimi long-context general model |
 | `sk-avAdvv8OVRzMlW7VhXL7muOKOwtQ6TdLlhflAVzfFA7ANeUd` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-06-09 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-08 03:22`
+### Image / Audio / Embedding `06-08 03:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
