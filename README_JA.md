@@ -57,11 +57,11 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 
 ## 📋 利用可能なキー
 
-> ⏰ 最終更新: 2026-06-07 14:30 (UTC+8)
+> ⏰ 最終更新: 2026-06-07 14:37 (UTC+8)
 
 ### 主要モデル
 
-### Claude Opus 4.7 `06-07 14:30`
+### Claude Opus 4.7 `06-07 14:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -70,7 +70,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-cyQC3kam69Up3Mrku4JAaotEy9Vbu5vrYHIFY0oirsC458cC` | claude-opus-4-7 | 🆕 新規 | $20 | 5 RPM | 2026-06-08 | Claude Opus flagship |
 | `sk-QbdMSnNtFUuAdfXX91hHYxVdl45ox4yVjf7uyyeArJ4z53IH` | claude-opus-4-7 | 🆕 新規 | $20 | 5 RPM | 2026-06-08 | Claude Opus flagship |
 
-### Gemini `06-07 14:30`
+### Gemini `06-07 14:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -81,7 +81,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-ObA5HqmsF1IyPuAZR3lwuynFtuG7wbkloHR45BDUJHkdIbea` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
 | `sk-EYAwA23uy3ODMCcMgOVbKW5MwYtnEDikwVHfq9Uhr4cV65GH` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-08 | Fast Gemini option for long-context general chat |
 
-### マルチモデル (GPT-5.5 / Claude / DeepSeek / Gemini 自動ルーティング) `06-07 14:30`
+### マルチモデル (GPT-5.5 / Claude / DeepSeek / Gemini 自動ルーティング) `06-07 14:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -92,7 +92,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-WI62zhkVo8WsnWH8mUPvyg6Jzg1oIv3LsbKn6x9z3KNMrfIo` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-09 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-ocXMqukkrG6CtXNB6i574NgHY7qkY8kfm4bX8Rkik8S60ulB` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-09 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `06-07 14:30`
+### Kimi `06-07 14:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -103,7 +103,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-3XsIzcCZ3IQaMYiCww7x6n8J5XGxXxb41psm0UkawQzpEIxZ` | kimi-k2.5 | 🆕 新規 | $20 | 10 RPM | 2026-06-09 | Kimi long-context general model |
 | `sk-JKzYWcMoDjkm0nBjACtsuaPcCA7C5aBmJVra3SXr8Ybhq1xR` | kimi-k2.5 | 🆕 新規 | $20 | 10 RPM | 2026-06-09 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-07 14:30`
+### Image / Audio / Embedding `06-07 14:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
