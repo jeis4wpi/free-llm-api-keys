@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-44-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-33-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-07 17:07 (UTC+8)
+> ⏰ Last updated: 2026-06-07 17:22 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,12 +85,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-
-<!-- daily-grant-keylist:start -->
-> 🎁 Want private 24h access to selected models? Join the daily grant on X: [@getkeyway](https://x.com/getkeyway). Latest post: [2026-06-07 · x-ai/grok-4.3](https://x.com/getkeyway/status/2063504119227372006). Stars are optional and never required to win.
-<!-- daily-grant-keylist:end -->
-
-### Claude Opus 4.7 `06-07 17:07`
+### Claude Opus 4.7 `06-07 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -101,7 +96,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-07 17:07`
+### Gemini `06-07 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -114,7 +109,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-07 17:07`
+### Kimi `06-07 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -123,11 +118,10 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | `sk-ZGat2ZJxnFWZmkub709FWKCYYQkUhy8a1BbpOErEzwL0lypZ` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Kimi long-context general model |
 | `sk-lxdpx2fX3CAV0ujgxkN54xitHepRm46mklsJRuENXzxs44QL` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Kimi long-context general model |
 | `sk-CE3TiUVnPIuf0wbCqCRMwR1rmg735oJqUlw02gcHGlqPEuJC` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Kimi long-context general model |
-| `sk-aEAgKHkWSnyZS9W1JB2uVfdN5X0z75U5l0gGQqkWjDDnchzi` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-07 17:07`
+### Image / Audio / Embedding `06-07 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -139,7 +133,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-0NFWJje0ZKfVxBCweCXREhNbNMKNL8PZqYzGRi8f8PZC2T2y` | deepseek-v4-flash | 🆕 New | $20 | 10 RPM | 2026-06-08 | Live positive-balance channel |
 
 ---
 
@@ -147,7 +140,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-x0NyimLT266Lw5CL99q23GEdnhHcknM5fn0xGaOj609rm2Bo` | deepseek-v4-pro | 🆕 New | $20 | 10 RPM | 2026-06-08 | Live positive-balance channel |
 
 ---
 
@@ -275,7 +267,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-TJw5Crr46lRPxF7ojL2mPHOBPjhJnZJ521WDKqBKBhrHbdaN` | perceptron/perceptron-mk1 | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 ---
 
@@ -283,7 +274,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-G3aMMicaJNw06qc8GNjnrvmpYIdtJOup1a165rd6dTKVHwsX` | openai/gpt-chat-latest | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 ---
 
@@ -291,7 +281,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-nPJFAAjNKrCg7UICNA4rLzILY9m2gKa1YhYrgmaGhV27HAtC` | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 ---
 
@@ -299,7 +288,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-2Eix3RlCtgvKV4w0swAffnTseWxZ1xrYQIoEOLuqgQfLbJ6Z` | mistralai/mistral-medium-3-5 | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 ---
 
@@ -307,7 +295,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-5vm4ATddBdc7MWZTEHfsnStFlEfBMbF2jKWnhoWYkdW9EWgB` | inclusionai/ring-2.6-1t | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 ---
 
@@ -315,7 +302,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-IjhRsDYiIePQrTtbiM0LJLimEepJD7TwXtd62GrVK1pW5naW` | ibm-granite/granite-4.1-8b | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 ---
 
@@ -323,7 +309,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-UYsTxDHjcpDnBbk0K1Aobh0shnGnMBlc0guVng5IQbnvZ8Vb` | google/gemini-3.1-flash-lite | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 ---
 
@@ -331,7 +316,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-pkARKatK3mvwb1XRMQJRW8XakLx9dfz1Lym8rs1NUKqawlJm` | baidu/cobuddy:free | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 
 ## 🚀 How to Use
@@ -522,6 +506,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-07
+- 🆕 Added 0 keys (no new keys), cleaned 12 expired
 - 🆕 Added 0 keys (no new keys), cleaned 5 expired
 - 🆕 Added 14 keys (smart-chat, kimi-k2.5, deepseek-v4-flash, deepseek-v4-pro), cleaned 1 expired
 - 🆕 Added 0 keys (no new keys), cleaned 4 expired
