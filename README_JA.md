@@ -57,24 +57,28 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 
 ## 📋 利用可能なキー
 
-> ⏰ 最終更新: 2026-06-09 22:37 (UTC+8)
+> ⏰ 最終更新: 2026-06-09 22:52 (UTC+8)
 
 ### 主要モデル
 
-### GPT-5.5 `06-09 22:37`
+### GPT-5.5 `06-09 22:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
-| `sk-2bLqInle779CZ1WzxnG3C85tdGIwBFliEfJIYeauB8TgIIk1` | gpt-5.5 | 🆕 新規 | $19 | 5 RPM | 2026-06-11 | Premium GPT flagship |
+| `sk-UVw54m3qn3eg8GxJbQZzsm7Pe4Jam3N0rOEHI22BRLpqbIHw` | gpt-5.5 | 🆕 新規 | $12 | 5 RPM | 2026-06-11 | Premium GPT flagship |
+| `sk-aOaxuJMIbqFWIVzOvXvbhDJHRLsy0KIRuiQ1aMgIZmefJ6fL` | gpt-5.5 | 🆕 新規 | $18 | 5 RPM | 2026-06-11 | Premium GPT flagship |
+| `sk-Xqjo34qSDX7GfbO22qArUq8hcoLSpsbb3w7npbaiu8fLHOxr` | gpt-5.5 | 🆕 新規 | $13 | 5 RPM | 2026-06-11 | Premium GPT flagship |
+| `sk-JQvoXUr8SnI3hUh3Fdcr8lm2SLlrihBiwKZAeOk8zZqd6vQl` | gpt-5.5 | 🆕 新規 | $11 | 5 RPM | 2026-06-11 | Premium GPT flagship |
+| `sk-t5hVbEYmjucU1BxrqUDJyMI0cSkRsnNKM8nxxB0ZFz0bIUaR` | gpt-5.5 | 🆕 新規 | $14 | 5 RPM | 2026-06-11 | Premium GPT flagship |
 
-### Claude Opus 4.7 `06-09 22:37`
+### Claude Opus 4.7 `06-09 22:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
 | `sk-caXU7tbL2o381id9YE2SG4KaqeXEgBFvwigzsjLdlj5Kj91A` | claude-opus-4-7 | 🆕 新規 | $20 | 5 RPM | 2026-06-10 | Claude Opus flagship |
 | `sk-fBHnfEgMaNx9dGhKvYElWMeneebDCYeoDyu1QHUCukDkRctI` | claude-opus-4-7 | 🆕 新規 | $20 | 5 RPM | 2026-06-10 | Claude Opus flagship |
 
-### Gemini `06-09 22:37`
+### Gemini `06-09 22:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -85,7 +89,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-gUuOJxPiswdW59481PbOOPkdSuPd1dnDGNvYnj93TggcpZfR` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-10 | Fast Gemini option for long-context general chat |
 | `sk-1n2eGTrJFp78DHO605iLpC5bH4Jpb1ITyaSjQN3EIEnh6OgX` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-10 | Fast Gemini option for long-context general chat |
 
-### マルチモデル (GPT-5.5 / Claude / DeepSeek / Gemini 自動ルーティング) `06-09 22:37`
+### マルチモデル (GPT-5.5 / Claude / DeepSeek / Gemini 自動ルーティング) `06-09 22:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -94,18 +98,15 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-Sr9KaJ3OrBFmheRnhDXr12dJfTdJ819TKECbrCoLlUzJ8cqe` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-XNlzZjq8amxyy7ylcIMTBo0G5pFgJsgybOCY1ud1XLSyd0ND` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-Y5SPyuz9haA6TC9B02pM8jiIiHcvIFJSxkyMouT8ulVsgQvR` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-54zAa9IMokcl4XhBMJQ10J0vufkrKajJr5FCNFJV3u6GvKBO` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `06-09 22:37`
+### Kimi `06-09 22:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
-| `sk-jNKdRw2Zgs0znAUiank9CULvStQGLvOJfeTYQFcLBbzedgDm` | kimi-k2.5 | 🆕 新規 | $18 | 10 RPM | 2026-06-11 | Kimi long-context general model |
-| `sk-ijSj3ODjc8HGQL7vzCTcfO9sdxwaGa5CyzOq4ekRwMuu76X2` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-11 | Kimi long-context general model |
-| `sk-Z20fGO8EFLUTHEEqg7hyqQR1k1VmHy7aCuK5F5Iw9jc2PDQh` | kimi-k2.5 | 🆕 新規 | $9 | 10 RPM | 2026-06-10 | Kimi long-context general model |
-| `sk-C9JjlIEiBJ4J8xGhHHKyRbskd5jZYWCsgQtbxi7v3LNdWncO` | kimi-k2.5 | 🆕 新規 | $12 | 10 RPM | 2026-06-10 | Kimi long-context general model |
+| `sk-qiAND0gGPvpsirBCKaQpHbRo45JZCMWyO55ldkAvSCpYCzKF` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-11 | Kimi long-context general model |
+| `sk-KWVCjp9pYXkh72S6fxEz8KZEK21nUaDXYZHY78KnI5H8Muec` | kimi-k2.5 | 🆕 新規 | $14 | 10 RPM | 2026-06-11 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-09 22:37`
+### Image / Audio / Embedding `06-09 22:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|

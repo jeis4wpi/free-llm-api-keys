@@ -70,7 +70,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-06-09 22:37 (UTC+8)
+> ⏰ 最后更新： 2026-06-09 22:52 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -84,15 +84,19 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 覆盖 GPT-5.5、Claude Opus 4.7、Gemini、DeepSeek、smart-chat、Kimi、图像、语音和向量模型。
 发布器只展示真实 Key；主货架只展示对应模型的直接 Key，额外有余额模型会按模型名单独列出。
 
-### GPT-5.5 `06-09 22:37`
+### GPT-5.5 `06-09 22:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-2bLqInle779CZ1WzxnG3C85tdGIwBFliEfJIYeauB8TgIIk1` | gpt-5.5 | 🆕 新增 | $19 | 5 RPM | 2026-06-11 | GPT 旗舰模型 |
+| `sk-UVw54m3qn3eg8GxJbQZzsm7Pe4Jam3N0rOEHI22BRLpqbIHw` | gpt-5.5 | 🆕 新增 | $12 | 5 RPM | 2026-06-11 | GPT 旗舰模型 |
+| `sk-aOaxuJMIbqFWIVzOvXvbhDJHRLsy0KIRuiQ1aMgIZmefJ6fL` | gpt-5.5 | 🆕 新增 | $18 | 5 RPM | 2026-06-11 | GPT 旗舰模型 |
+| `sk-Xqjo34qSDX7GfbO22qArUq8hcoLSpsbb3w7npbaiu8fLHOxr` | gpt-5.5 | 🆕 新增 | $13 | 5 RPM | 2026-06-11 | GPT 旗舰模型 |
+| `sk-JQvoXUr8SnI3hUh3Fdcr8lm2SLlrihBiwKZAeOk8zZqd6vQl` | gpt-5.5 | 🆕 新增 | $11 | 5 RPM | 2026-06-11 | GPT 旗舰模型 |
+| `sk-t5hVbEYmjucU1BxrqUDJyMI0cSkRsnNKM8nxxB0ZFz0bIUaR` | gpt-5.5 | 🆕 新增 | $14 | 5 RPM | 2026-06-11 | GPT 旗舰模型 |
 
 ---
 
-### Claude Opus 4.7 `06-09 22:37`
+### Claude Opus 4.7 `06-09 22:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -101,7 +105,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Gemini `06-09 22:37`
+### Gemini `06-09 22:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -114,7 +118,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### 多模型聚合（GPT-5.5 / Claude / DeepSeek / Gemini 自动轮询） `06-09 22:37`
+### 多模型聚合（GPT-5.5 / Claude / DeepSeek / Gemini 自动轮询） `06-09 22:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -123,22 +127,19 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 | `sk-Sr9KaJ3OrBFmheRnhDXr12dJfTdJ819TKECbrCoLlUzJ8cqe` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-11 | 自动路由到当前健康的低成本聊天模型 |
 | `sk-XNlzZjq8amxyy7ylcIMTBo0G5pFgJsgybOCY1ud1XLSyd0ND` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-11 | 自动路由到当前健康的低成本聊天模型 |
 | `sk-Y5SPyuz9haA6TC9B02pM8jiIiHcvIFJSxkyMouT8ulVsgQvR` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-11 | 自动路由到当前健康的低成本聊天模型 |
-| `sk-54zAa9IMokcl4XhBMJQ10J0vufkrKajJr5FCNFJV3u6GvKBO` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-11 | 自动路由到当前健康的低成本聊天模型 |
 
 ---
 
-### Kimi `06-09 22:37`
+### Kimi `06-09 22:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-jNKdRw2Zgs0znAUiank9CULvStQGLvOJfeTYQFcLBbzedgDm` | kimi-k2.5 | 🆕 新增 | $18 | 10 RPM | 2026-06-11 | Kimi 长上下文通用模型 |
-| `sk-ijSj3ODjc8HGQL7vzCTcfO9sdxwaGa5CyzOq4ekRwMuu76X2` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-11 | Kimi 长上下文通用模型 |
-| `sk-Z20fGO8EFLUTHEEqg7hyqQR1k1VmHy7aCuK5F5Iw9jc2PDQh` | kimi-k2.5 | 🆕 新增 | $9 | 10 RPM | 2026-06-10 | Kimi 长上下文通用模型 |
-| `sk-C9JjlIEiBJ4J8xGhHHKyRbskd5jZYWCsgQtbxi7v3LNdWncO` | kimi-k2.5 | 🆕 新增 | $12 | 10 RPM | 2026-06-10 | Kimi 长上下文通用模型 |
+| `sk-qiAND0gGPvpsirBCKaQpHbRo45JZCMWyO55ldkAvSCpYCzKF` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-11 | Kimi 长上下文通用模型 |
+| `sk-KWVCjp9pYXkh72S6fxEz8KZEK21nUaDXYZHY78KnI5H8Muec` | kimi-k2.5 | 🆕 新增 | $14 | 10 RPM | 2026-06-11 | Kimi 长上下文通用模型 |
 
 ---
 
-### 图像 / 语音 / 向量化 `06-09 22:37`
+### 图像 / 语音 / 向量化 `06-09 22:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -151,14 +152,6 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
 | `sk-BYbEv57sEo3Xq4zbminBKUHeunGBip6YBI1nSsZnTQkGAIYJ` | deepseek-v4-pro | 🆕 新增 | $20 | 10 RPM | 2026-06-10 | 来自有余额渠道的额外可用模型 |
-
----
-
-### deepseek-v4-flash `06-09 20:31`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-I99oeeU09ta5qj3y39TdRJ9zHACgDHfZgmMAXy8zexqw0L6H` | deepseek-v4-flash | 🆕 新增 | $20 | 10 RPM | 2026-06-10 | 来自有余额渠道的额外可用模型 |
 
 ---
 
