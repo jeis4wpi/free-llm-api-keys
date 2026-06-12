@@ -43,11 +43,11 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 
 ## 📋 Claves Disponibles
 
-> ⏰ Última actualización: 2026-06-13 03:22 (UTC+8)
+> ⏰ Última actualización: 2026-06-13 03:37 (UTC+8)
 
 ### Modelos destacados
 
-### Gemini `06-13 03:22`
+### Gemini `06-13 03:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -58,14 +58,15 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-KAll7amtqMSmGkkHCksb5gxy37sfUmVbTiJll6P0uuwNBdCg` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-06-14 | Fast Gemini option for long-context general chat |
 | `sk-tWXco929P2wqNMbwZh4ZFyE3KHYbOHPi7vr2Yztp3Ope3EJ1` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-06-14 | Fast Gemini option for long-context general chat |
 
-### Kimi `06-13 03:22`
+### Kimi `06-13 03:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
-| `sk-ozEk7hH9sXI68s5ywuqkkNsqP0iRvaTbZSfUrYH7kwqlvFfo` | kimi-k2.5 | 🆕 Nueva | $19 | 10 RPM | 2026-06-14 | Kimi long-context general model |
-| `sk-kCqaa2l368I6f4XMLH7AUFsiyVUtK4opcE4EDpVbuIu949lH` | kimi-k2.5 | 🆕 Nueva | $19 | 10 RPM | 2026-06-14 | Kimi long-context general model |
+| `sk-mTvtyTu6Dq13oC3ANHyn6VNODj2Oi7hxjTf4T3YepsFZBMwD` | kimi-k2.5 | 🆕 Nueva | $15 | 10 RPM | 2026-06-14 | Kimi long-context general model |
+| `sk-v18fvKJkVbFzd6fZNBifatHnHj69FzzxeMQSYzTBGkuFCQNE` | kimi-k2.5 | 🆕 Nueva | $18 | 10 RPM | 2026-06-14 | Kimi long-context general model |
+| `sk-nAMaKvbImox2QgYM94jGUSckd3A2fCMstqIn507k38WCSNYj` | kimi-k2.5 | 🆕 Nueva | $19 | 10 RPM | 2026-06-14 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-13 03:22`
+### Image / Audio / Embedding `06-13 03:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
